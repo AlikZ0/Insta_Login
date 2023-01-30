@@ -74,7 +74,7 @@ button {
 
 span {
     display: grid;
-    grid-template-columns: 1ft 30px 1ft;
+    grid-template-columns: 1fr 30px 1fr;
     padding: 0.6rem 0 1.2rem;
     opacity: 0.5;
 }
@@ -94,7 +94,7 @@ footer {
     margin: 0 auto;
     width: 150px;
     display: flex;
-    grid-template-columns: 1ft 1ft;
+    grid-template-columns: 1fr 1fr;
     grid-gap: 0.5rem;
     justify-content: center;
     align-content: space-around;
